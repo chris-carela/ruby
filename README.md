@@ -6,7 +6,7 @@ This project is intended to document Ruby items, including:
 3. used as a source for "refreshers"
 
 ### Documentation
-ruby-doc.org
+- ruby-doc.org
 
 ### My Course Notes
 - all Ruby files should end in .rb
