@@ -6,7 +6,7 @@ This project is intended to document Ruby items, including:
 3. used as a source for "refreshers"
 ___
 ### **_Documentation References_**
-- [ruby-doc.org]
+- https://ruby-doc.org
 ___
 ### **_Courses_**
 - (In Progress) https://www.linkedin.com/learning/ruby-essential-training-part-1-the-basics
