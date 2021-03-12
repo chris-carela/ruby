@@ -1,14 +1,17 @@
-### Summary
+# Summary
 
 This project is intended to document Ruby items, including: 
 1. course progression from various online resources
 2. track my overall skill improvement
 3. used as a source for "refreshers"
 
-### Documentation
+### **_Documentation References_**
 - ruby-doc.org
 
-### My Course Notes
+### **_Courses_**
+- [In Progress] https://www.linkedin.com/learning/ruby-essential-training-part-1-the-basics
+
+### **_My Course Notes_**
 - all Ruby files should end in .rb
 - running files in CLI start with ruby, e.g. ruby puts_command.rb
 - comments start with #
