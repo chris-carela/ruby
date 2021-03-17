@@ -15,6 +15,18 @@ ___
 - Object-Oriented Programming (OOP) language
 - objects can be abstracted, have attributes, instance of a class
 - variables are not objects but store a reference to an object and have a value (e.g. `first_name = "Kevin"`)
+- variables can have scope indicators which have different characteristics, see table below
+
+| Scope         | Indicator     |
+| ------------- |:-------------:|
+| Global        |`$variable`    |
+| Class         |`@@variable`   |
+| Instance      |`@variable`    |
+| Local         |`variable`     |
+| Block         |`variable`     |
+
+- precision matters with numerical values, e.g. if you wanted to divide 10 by 3 and see an output with a decimal it must be `10.0 / 3` not `10 / 3` (float / integer or float / float)
+- Number Methods include `abs` (absolute value), `round`, `floor` (rounds down), `ceil` (rounds up) 
 - all Ruby files should end in `.rb`
 - running files in CLI start with ruby, e.g. `ruby puts_command.rb`
 - comments start with `#`
