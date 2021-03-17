@@ -12,6 +12,9 @@ ___
 - (In Progress) https://www.linkedin.com/learning/ruby-essential-training-part-1-the-basics
 ___
 ### **_My Course Notes_**
+- Object-Oriented Programming (OOP) language
+- objects can be abstracted, have attributes, instance of a class
+- variables are not objects but store a reference to an object and have a value (e.g. `first_name = "Kevin"`)
 - all Ruby files should end in `.rb`
 - running files in CLI start with ruby, e.g. `ruby puts_command.rb`
 - comments start with `#`
